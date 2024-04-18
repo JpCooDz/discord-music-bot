@@ -14,13 +14,13 @@ Mute/Unmute: Mude o status de mutação do bot no canal de voz.
 
 # Comandos
 
-/play <url>: Inicia a reprodução de uma música.
-/pause: Pausa a reprodução da música atual.
-/resume: Continua a reprodução da música pausada.
-/stop: Encerra a reprodução da música.
-/mute: Muta o bot no canal de voz.
-/unmute: Desmuta o bot no canal de voz.
-/volume <valor>: Ajusta o volume da música reproduzida.
+<p>/play <url> Inicia a reprodução de uma música.</p>
+<p>/pause: Pausa a reprodução da música atual.</p>
+<p>/resume: Continua a reprodução da música pausada.</p>
+<p>/stop: Encerra a reprodução da música.</p>
+<p>/mute: Muta o bot no canal de voz.</p>
+<p>/unmute: Desmuta o bot no canal de voz.</p>
+<p>/volume <valor> Ajusta o volume da música reproduzida.</p>
 
 # Requisitos
 
@@ -40,9 +40,9 @@ Para instalar o FFmpeg
 
 O FFmpeg é uma poderosa ferramenta de linha de comando para manipular arquivos de áudio e vídeo. Ele pode ser usado para converter formatos de mídia, editar vídeos, gravar fluxos de áudio e vídeo, transcodificar arquivos e fazer streaming de mídia pela rede
 
-1 - Baixe o FFmpeg do site oficial: FFmpeg Download Page
-2 - Extraia o arquivo ZIP para um local no seu computador.
-3 - Adicione o caminho do diretório bin do FFmpeg ao PATH do sistema
+<p>1 - Baixe o FFmpeg do site oficial: FFmpeg Download Page</p>
+<p>2 - Extraia o arquivo ZIP para um local no seu computador.</p>
+<p>3 - Adicione o caminho do diretório bin do FFmpeg ao PATH do sistema.</p>
 
 Vídeo tutorial: https://www.youtube.com/watch?v=Q267RF1I3GE
 
